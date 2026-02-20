@@ -1,0 +1,31 @@
+# Sistemas distribuidos 
+
+PAN -> red personal 
+LAN -> red local
+WAN -> red mundial
+ISP -> se conecta a todas las redes del planeta 
+Tarjeta de red -> solo se paga una vez  es el conector que se usa para que puedan conectarse a la red, como la que venden claro, tigo o cualquier distribuidor de internet.
+Sistema operativo -> algunas gratis como Linux ootros de pago como windous, iOS.
+CDN/cache -> es una copia que se crea despues de la primera busqueda al servidor principal, quitando carga al servicio
+---->
+<----
+
+Direccion IP
+  - Privadas(LAN): todas las redes que comiencen con 10.x, 192.198.x, 172.16.31x.x son gratis  
+  - Publicas(WAN): 
+Mascara 
+Gateway
+DNS 
+  - Domain name server, traductor de ip a nombres
+
+
+
+COMANDITOS
+- route -n -> para ver las tarjetas de red a las que uno esta conectado 
+- ifconfig / ip-> para red, nos da la red, la mascara, tiene que ver con el enrutamiento de 
+- top -> la informacion de la ran maquina 
+- pwd -> para saber la ubicacion donde estas
+- ls -> para desplegar el contenido de la ubicacion donde estas 
+  - ls / -> es para buscar en la carpeta inicial  
+- cat -> concatenar y mostrar el contenido de archivos
+
